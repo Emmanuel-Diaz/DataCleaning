@@ -1,0 +1,111 @@
+,Basketball Player,Age,Sex,Height
+0,Player 0,25,F,4'7''
+1,Player 1,26,F,7'7''
+2,Player 0,25,F,4'7''
+3,Player 1,26,F,7'7''
+4,Player 2,25,M,4'4''
+5,Player 3,27,F,7'5''
+6,Player 4,28,F,4'8''
+7,Player 5,28,M,128 cm
+8,Player 6,28,F,7'1''
+9,Player 7,23,F,4'1''
+10,Player 8,27,F,6'4''
+11,Player 9,18,M,6'8''
+12,Player 2,25,M,4'4''
+13,Player 3,27,F,7'5''
+14,Player 4,28,F,4'8''
+15,Player 5,28,M,128 cm
+16,Player 6,28,F,7'1''
+17,Player 7,23,F,4'1''
+18,Player 8,27,F,6'4''
+19,Player 9,18,M,6'8''
+20,Player 10,20,F,6'8''
+21,Player 11,27,M,5'1''
+22,Player 12,19,M,4'4''
+23,Player 13,25,M,7'4''
+24,Player 14,29,M,136 cm
+25,Player 15,18,F,226 cm
+26,Player 16,18,M,187 cm
+27,Player 17,29,M,5'3''
+28,Player 18,28,M,4'7''
+29,Player 19,30,F,6'0''
+30,Player 20,20,M,4'6''
+31,Player 21,18,F,5'3''
+32,Player 22,26,M,4'8''
+33,Player 23,27,M,152 cm
+34,Player 24,21,F,4'6''
+35,Player 25,25,M,4'5''
+36,Player 26,24,M,4'1''
+37,Player 27,20,F,5'5''
+38,Player 28,27,F,5'5''
+39,Player 29,23,M,5'8''
+40,Player 30,23,F,6'8''
+41,Player 31,24,F,6'6''
+42,Player 32,22,F,208 cm
+43,Player 33,30,F,4'6''
+44,Player 34,28,M,7'2''
+45,Player 35,27,F,6'5''
+46,Player 36,30,F,7'11''
+47,Player 37,23,M,6'9''
+48,Player 38,18,F,4'5''
+49,Player 39,27,F,228 cm
+50,Player 40,18,F,238 cm
+51,Player 41,20,M,5'5''
+52,Player 42,27,M,6'4''
+53,Player 43,20,F,5'1''
+54,Player 44,20,M,4'0''
+55,Player 45,25,M,6'4''
+56,Player 46,20,M,6'9''
+57,Player 47,26,M,7'6''
+58,Player 48,25,F,7'9''
+59,Player 49,20,M,4'4''
+60,Player 50,18,F,139 cm
+61,Player 51,18,M,7'0''
+62,Player 52,25,M,7'1''
+63,Player 53,24,F,7'10''
+64,Player 54,27,F,6'11''
+65,Player 55,19,M,7'11''
+66,Player 56,23,F,195 cm
+67,Player 57,29,F,200 cm
+68,Player 58,23,F,127 cm
+69,Player 59,28,F,5'3''
+70,Player 60,24,F,5'11''
+71,Player 61,30,F,4'0''
+72,Player 62,24,F,4'6''
+73,Player 63,28,M,7'9''
+74,Player 64,28,M,7'2''
+75,Player 65,19,F,6'2''
+76,Player 66,23,F,7'8''
+77,Player 67,20,F,6'7''
+78,Player 68,18,F,7'10''
+79,Player 69,27,M,168 cm
+80,Player 70,27,M,5'5''
+81,Player 71,24,M,4'9''
+82,Player 72,29,F,4'1''
+83,Player 73,25,M,174 cm
+84,Player 74,24,F,7'7''
+85,Player 75,20,M,5'3''
+86,Player 76,18,M,4'3''
+87,Player 77,30,F,195 cm
+88,Player 78,21,F,7'1''
+89,Player 79,22,M,7'2''
+90,Player 80,18,F,120 cm
+91,Player 81,19,M,6'1''
+92,Player 82,30,F,126 cm
+93,Player 83,22,M,5'9''
+94,Player 84,19,F,5'0''
+95,Player 85,30,F,124 cm
+96,Player 86,29,M,4'0''
+97,Player 87,29,M,4'7''
+98,Player 88,23,F,4'8''
+99,Player 89,26,M,7'3''
+100,Player 90,28,F,202 cm
+101,Player 91,23,M,7'1''
+102,Player 92,21,M,5'9''
+103,Player 93,19,F,7'5''
+104,Player 94,21,F,6'8''
+105,Player 95,21,M,5'9''
+106,Player 96,20,F,7'10''
+107,Player 97,20,F,7'0''
+108,Player 98,27,M,4'7''
+109,Player 99,26,F,4'2''
